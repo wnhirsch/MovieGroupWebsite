@@ -9,14 +9,10 @@ class Database {
 	private $port;
 	
 	function Database(){
-		// $this->servername = "localhost";
-		// $this->username = "root";
-		// $this->password = "";
-		// $this->dbname = "MOVIEGROUP";
-		$this->servername = "sql210.epizy.com";
-		$this->username = "epiz_25795904";
-		$this->password = "vgBxpfb3PfMR";
-		$this->dbname = "epiz_25795904_MOVIEGROUP";
+		$this->servername = "localhost";
+		$this->username = "root";
+		$this->password = "";
+		$this->dbname = "MOVIEGROUP";
 		// $this->port = 3306;
 	}
 
