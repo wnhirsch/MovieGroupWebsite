@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1a761c1-d6c9-4659-aae5-f2f9004855d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MovieGroupWebsite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/actions/ajax_criticRateTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/actions/ajax_generateToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/actions/ajax_ourRateTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/classes/criticRate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/classes/movie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/classes/movieRate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/classes/searchResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/classes/simple_html_dom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/classes/token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/classes/viewer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/db/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/db/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/media/discord_icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/media/image_not_found.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/_navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/invite.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/movie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/signUp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.old/v1.0.0/pages/statistics.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/controller/general.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/internal/repository/db/database.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/db/database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actions/ajax_criticRateTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/actions/ajax_generateToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/actions/ajax_ourRateTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/criticRate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/movie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/movieRate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/searchResult.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/simple_html_dom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/token.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/viewer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/database.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/discord_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/image_not_found.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_navbar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/invite.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/movie.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/signUp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/statistics.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Users\WellingtonNascenteHi\sdk\go1.15rc1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ft5JdsmoC2bXerxCWenP1TNYvR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/internal/repository" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WellingtonNascenteHi\Documents\MovieGroupWebsite\internal\repository" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MovieGroupWebsite" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/cmd/main/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="295" key="#GOROOT" timestamp="1597024516106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="295" key="#GOROOT/0.0.1366.728@0.0.1366.728" timestamp="1597024516106" />
+    <state x="239" y="5" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597025052857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="239" y="5" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597025052857" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1597025925549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597025925549" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1597025925549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597025925549" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1597025925549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597025925549" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1597025925549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597025925549" />
+  </component>
+</project>
